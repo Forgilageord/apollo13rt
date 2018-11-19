@@ -1106,7 +1106,7 @@ Well, that's why I was recommending PTC because we don't need any of that stuff 
 Yeah, but you gotta get the CMC on, and keep it online. And you need a rather precise period of time for redamping there.
 
 [56 19 10 - 56 19 14] GNC
-In the order of about 20 minutes to damp out and spin up and then we don't need any of that.
+In the order of about 20 minutes to damp out and spin up and then we can do without any of that.
 
 [56 19 18 - 56 19 20] GNC
 If we get a good spinup going then we're stable -
